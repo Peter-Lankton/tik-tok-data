@@ -1,2 +1,2 @@
 # tik-tok-data
-The data I scraped to for my analysis.
+The data I scraped for my analysis.
